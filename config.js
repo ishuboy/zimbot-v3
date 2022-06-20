@@ -1,14 +1,14 @@
 
 // ⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈⧈
-//▮ZIM BOT INC 2022 ®️ALL RIGHTS RESERVED
+//▮ZETRO BOT INC 2022 ®️ALL RIGHTS RESERVED
 //▮
 //▮FORK AND DON'T FORGET TO GIVE A STAR
 //▮
 //▮THIS SOFTWARE IS UNDER UZ COPYRIGHT
 //▮
 //▮REPORT ABUSE OF THIS SOFTWARE EMAIL US
-//▮reinhardtuna@mail.uk
-//▮WHATSAPP US : +44 7441 437150
+//▮gayashansenanayaka5@gmail.com
+//▮WHATSAPP US : +94 74 258 4735
 //▮YOUTUBE CHANNELL: https://youtube.com/c/DRIPSOFC
 //▮
 //╰▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
@@ -17,7 +17,7 @@
 //┃THIS SOFTWARE INCLUDES 
 //┃SOME ENCRYPTED FILES
 //┃
-//┃THANKS FOR CHOOSING ZIMBOT
+//┃THANKS FOR CHOOSING ZETRO BOT
 //┃THANKS TO DIKA ARDNT
 //┗━━━━━━━━━━━━━━━━━━━━━━━━━
 //
